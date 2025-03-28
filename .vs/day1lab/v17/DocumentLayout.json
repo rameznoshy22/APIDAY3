@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\filters\\testaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\filters\\testaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\middlewares\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\models\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\models\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\dto\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\dto\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\dto\\deptonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\dto\\deptonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\migrations\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\migrations\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\dto\\studentputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\dto\\studentputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|c:\\users\\ramez\\desktop\\.net bns\\back\\api\\day1lab\\day1lab\\dto\\studentonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7DA834-5309-4863-A262-F9322D939CCB}|day1lab\\day1lab.csproj|solutionrelative:day1lab\\dto\\studentonedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "day1lab\\Middlewares\\LoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Middlewares\\LoggingMiddleware.cs",
+              "RelativeToolTip": "day1lab\\Middlewares\\LoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:03:38.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestAction.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Filters\\TestAction.cs",
+              "RelativeDocumentMoniker": "day1lab\\Filters\\TestAction.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Filters\\TestAction.cs",
+              "RelativeToolTip": "day1lab\\Filters\\TestAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T21:03:20.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\appsettings.json",
+              "RelativeDocumentMoniker": "day1lab\\appsettings.json",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\appsettings.json",
+              "RelativeToolTip": "day1lab\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T18:22:35.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\DTO\\LoginUserDTO.cs",
+              "RelativeDocumentMoniker": "day1lab\\DTO\\LoginUserDTO.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\DTO\\LoginUserDTO.cs",
+              "RelativeToolTip": "day1lab\\DTO\\LoginUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T17:34:32.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\DTO\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "day1lab\\DTO\\RegisterUserDTO.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\DTO\\RegisterUserDTO.cs",
+              "RelativeToolTip": "day1lab\\DTO\\RegisterUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:48:40.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "day1lab\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "day1lab\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADwAAABAZmZmZmYiwEcAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:40:53.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "APIcontext.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Models\\APIcontext.cs",
+              "RelativeDocumentMoniker": "day1lab\\Models\\APIcontext.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Models\\APIcontext.cs",
+              "RelativeToolTip": "day1lab\\Models\\APIcontext.cs",
+              "ViewState": "AgIAAAwAAACgmZmZmZktwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:32:50.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Migrations\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "day1lab\\Migrations\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Migrations\\ApplicationUser.cs",
+              "RelativeToolTip": "day1lab\\Migrations\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T16:30:37.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeptoneDTO.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\DTO\\DeptoneDTO.cs",
+              "RelativeDocumentMoniker": "day1lab\\DTO\\DeptoneDTO.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\DTO\\DeptoneDTO.cs",
+              "RelativeToolTip": "day1lab\\DTO\\DeptoneDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:32:44.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentputDTO.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\DTO\\StudentputDTO.cs",
+              "RelativeDocumentMoniker": "day1lab\\DTO\\StudentputDTO.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\DTO\\StudentputDTO.cs",
+              "RelativeToolTip": "day1lab\\DTO\\StudentputDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:12:03.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "day1lab\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Models\\Student.cs",
+              "RelativeToolTip": "day1lab\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:24:15.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "day1lab\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "day1lab\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAC8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:53:32.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentoneDTO.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\DTO\\StudentoneDTO.cs",
+              "RelativeDocumentMoniker": "day1lab\\DTO\\StudentoneDTO.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\DTO\\StudentoneDTO.cs",
+              "RelativeToolTip": "day1lab\\DTO\\StudentoneDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T20:02:35.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "day1lab\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "day1lab\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABwAAABAAAAAAAAgwCYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:11:21.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Program.cs",
+              "RelativeDocumentMoniker": "day1lab\\Program.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Program.cs",
+              "RelativeToolTip": "day1lab\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:24:29.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "day1lab\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\RAMEZ\\Desktop\\.net bns\\Back\\API\\day1lab\\day1lab\\Models\\Department.cs",
+              "RelativeToolTip": "day1lab\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:24:20.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
